@@ -3,7 +3,7 @@ Implementaion of Majorization Minimization Algorithm for Optimization
 
 
 
-Following optimization problem are optimized:
+Following optimization problem are solved:
 
 1) Function cos(x)
 
