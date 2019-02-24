@@ -21,4 +21,5 @@ For a detailed tutorial on MM algorithms refer following:
 
 [The MM Algorithm by Kenneth Lange](https://www.stat.berkeley.edu/~aldous/Colloq/lange-talk.pdf)
 
+[Examples of MM Algorithm](http://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/20-mm/deLeeuw.pdf)
 
